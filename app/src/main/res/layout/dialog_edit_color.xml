@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/background"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/dialogBg"
+        android:background="#33b5e5"
+        android:layout_width="match_parent"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:layout_height="124dp">
+        <LinearLayout
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/dialogName"
+                android:gravity="bottom"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:singleLine="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Color name"/>
+            <EditText
+                android:id="@+id/dialogCode"
+                android:layout_marginTop="-6dp"
+                android:gravity="bottom"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:maxLength="6"
+                android:digits="0123456789ABCDEFabcdef"
+                android:inputType="textCapCharacters|textNoSuggestions|textVisiblePassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Color code"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+        <TextView
+            android:id="@+id/dialogSave"
+            android:layout_alignParentRight="true"
+            android:text="SAVE"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:padding="8dp"
+            android:clickable="true"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/dialogCancel"
+            android:layout_toLeftOf="@id/dialogSave"
+            android:layout_marginRight="8dp"
+            android:text="CANCEL"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:padding="8dp"
+            android:clickable="true"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/dialogDelete"
+            android:layout_alignParentLeft="true"
+            android:text="DELETE"
+            android:textSize="12sp"
+            android:textColor="#F44336"
+            android:gravity="center"
+            android:padding="8dp"
+            android:clickable="true"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,1526 @@
+[
+  {
+    "id": 0,
+    "colorSetId": 0,
+    "name": "50",
+    "color": "#FFEBEE"
+  },
+  {
+    "id": 1,
+    "colorSetId": 0,
+    "name": "100",
+    "color": "#FFCDD2"
+  },
+  {
+    "id": 2,
+    "colorSetId": 0,
+    "name": "200",
+    "color": "#EF9A9A"
+  },
+  {
+    "id": 3,
+    "colorSetId": 0,
+    "name": "300",
+    "color": "#E57373"
+  },
+  {
+    "id": 4,
+    "colorSetId": 0,
+    "name": "400",
+    "color": "#EF5350"
+  },
+  {
+    "id": 5,
+    "colorSetId": 0,
+    "name": "500",
+    "color": "#F44336"
+  },
+  {
+    "id": 6,
+    "colorSetId": 0,
+    "name": "600",
+    "color": "#E53935"
+  },
+  {
+    "id": 7,
+    "colorSetId": 0,
+    "name": "700",
+    "color": "#D32F2F"
+  },
+  {
+    "id": 8,
+    "colorSetId": 0,
+    "name": "800",
+    "color": "#C62828"
+  },
+  {
+    "id": 9,
+    "colorSetId": 0,
+    "name": "900",
+    "color": "#B71C1C"
+  },
+  {
+    "id": 10,
+    "colorSetId": 0,
+    "name": "A100",
+    "color": "#FF8A80"
+  },
+  {
+    "id": 11,
+    "colorSetId": 0,
+    "name": "A200",
+    "color": "#FF5252"
+  },
+  {
+    "id": 12,
+    "colorSetId": 0,
+    "name": "A400",
+    "color": "#FF1744"
+  },
+  {
+    "id": 13,
+    "colorSetId": 0,
+    "name": "A700",
+    "color": "#D50000"
+  },
+  {
+    "id": 14,
+    "colorSetId": 1,
+    "name": "50",
+    "color": "#FCE4EC"
+  },
+  {
+    "id": 15,
+    "colorSetId": 1,
+    "name": "100",
+    "color": "#F8BBD0"
+  },
+  {
+    "id": 16,
+    "colorSetId": 1,
+    "name": "200",
+    "color": "#F48FB1"
+  },
+  {
+    "id": 17,
+    "colorSetId": 1,
+    "name": "300",
+    "color": "#F06292"
+  },
+  {
+    "id": 18,
+    "colorSetId": 1,
+    "name": "400",
+    "color": "#EC407A"
+  },
+  {
+    "id": 19,
+    "colorSetId": 1,
+    "name": "500",
+    "color": "#E91E63"
+  },
+  {
+    "id": 20,
+    "colorSetId": 1,
+    "name": "600",
+    "color": "#D81B60"
+  },
+  {
+    "id": 21,
+    "colorSetId": 1,
+    "name": "700",
+    "color": "#C2185B"
+  },
+  {
+    "id": 22,
+    "colorSetId": 1,
+    "name": "800",
+    "color": "#AD1457"
+  },
+  {
+    "id": 23,
+    "colorSetId": 1,
+    "name": "900",
+    "color": "#880E4F"
+  },
+  {
+    "id": 24,
+    "colorSetId": 1,
+    "name": "A100",
+    "color": "#FF80AB"
+  },
+  {
+    "id": 25,
+    "colorSetId": 1,
+    "name": "A200",
+    "color": "#FF4081"
+  },
+  {
+    "id": 26,
+    "colorSetId": 1,
+    "name": "A400",
+    "color": "#F50057"
+  },
+  {
+    "id": 27,
+    "colorSetId": 1,
+    "name": "A700",
+    "color": "#C51162"
+  },
+  {
+    "id": 28,
+    "colorSetId": 2,
+    "name": "50",
+    "color": "#F3E5F5"
+  },
+  {
+    "id": 29,
+    "colorSetId": 2,
+    "name": "100",
+    "color": "#E1BEE7"
+  },
+  {
+    "id": 30,
+    "colorSetId": 2,
+    "name": "200",
+    "color": "#CE93D8"
+  },
+  {
+    "id": 31,
+    "colorSetId": 2,
+    "name": "300",
+    "color": "#BA68C8"
+  },
+  {
+    "id": 32,
+    "colorSetId": 2,
+    "name": "400",
+    "color": "#AB47BC"
+  },
+  {
+    "id": 33,
+    "colorSetId": 2,
+    "name": "500",
+    "color": "#9C27B0"
+  },
+  {
+    "id": 34,
+    "colorSetId": 2,
+    "name": "600",
+    "color": "#8E24AA"
+  },
+  {
+    "id": 35,
+    "colorSetId": 2,
+    "name": "700",
+    "color": "#7B1FA2"
+  },
+  {
+    "id": 36,
+    "colorSetId": 2,
+    "name": "800",
+    "color": "#6A1B9A"
+  },
+  {
+    "id": 37,
+    "colorSetId": 2,
+    "name": "900",
+    "color": "#4A148C"
+  },
+  {
+    "id": 38,
+    "colorSetId": 2,
+    "name": "A100",
+    "color": "#EA80FC"
+  },
+  {
+    "id": 39,
+    "colorSetId": 2,
+    "name": "A200",
+    "color": "#E040FB"
+  },
+  {
+    "id": 40,
+    "colorSetId": 2,
+    "name": "A400",
+    "color": "#D500F9"
+  },
+  {
+    "id": 41,
+    "colorSetId": 2,
+    "name": "A700",
+    "color": "#AA00FF"
+  },
+  {
+    "id": 42,
+    "colorSetId": 3,
+    "name": "50",
+    "color": "#EDE7F6"
+  },
+  {
+    "id": 43,
+    "colorSetId": 3,
+    "name": "100",
+    "color": "#D1C4E9"
+  },
+  {
+    "id": 44,
+    "colorSetId": 3,
+    "name": "200",
+    "color": "#B39DDB"
+  },
+  {
+    "id": 45,
+    "colorSetId": 3,
+    "name": "300",
+    "color": "#9575CD"
+  },
+  {
+    "id": 46,
+    "colorSetId": 3,
+    "name": "400",
+    "color": "#7E57C2"
+  },
+  {
+    "id": 47,
+    "colorSetId": 3,
+    "name": "500",
+    "color": "#673AB7"
+  },
+  {
+    "id": 48,
+    "colorSetId": 3,
+    "name": "600",
+    "color": "#5E35B1"
+  },
+  {
+    "id": 49,
+    "colorSetId": 3,
+    "name": "700",
+    "color": "#512DA8"
+  },
+  {
+    "id": 50,
+    "colorSetId": 3,
+    "name": "800",
+    "color": "#4527A0"
+  },
+  {
+    "id": 51,
+    "colorSetId": 3,
+    "name": "900",
+    "color": "#311B92"
+  },
+  {
+    "id": 52,
+    "colorSetId": 3,
+    "name": "A100",
+    "color": "#B388FF"
+  },
+  {
+    "id": 53,
+    "colorSetId": 3,
+    "name": "A200",
+    "color": "#7C4DFF"
+  },
+  {
+    "id": 54,
+    "colorSetId": 3,
+    "name": "A400",
+    "color": "#651FFF"
+  },
+  {
+    "id": 55,
+    "colorSetId": 3,
+    "name": "A700",
+    "color": "#6200EA"
+  },
+  {
+    "id": 56,
+    "colorSetId": 4,
+    "name": "50",
+    "color": "#E8EAF6"
+  },
+  {
+    "id": 57,
+    "colorSetId": 4,
+    "name": "100",
+    "color": "#C5CAE9"
+  },
+  {
+    "id": 58,
+    "colorSetId": 4,
+    "name": "200",
+    "color": "#9FA8DA"
+  },
+  {
+    "id": 59,
+    "colorSetId": 4,
+    "name": "300",
+    "color": "#7986CB"
+  },
+  {
+    "id": 60,
+    "colorSetId": 4,
+    "name": "400",
+    "color": "#5C6BC0"
+  },
+  {
+    "id": 61,
+    "colorSetId": 4,
+    "name": "500",
+    "color": "#3F51B5"
+  },
+  {
+    "id": 62,
+    "colorSetId": 4,
+    "name": "600",
+    "color": "#3949AB"
+  },
+  {
+    "id": 63,
+    "colorSetId": 4,
+    "name": "700",
+    "color": "#303F9F"
+  },
+  {
+    "id": 64,
+    "colorSetId": 4,
+    "name": "800",
+    "color": "#283593"
+  },
+  {
+    "id": 65,
+    "colorSetId": 4,
+    "name": "900",
+    "color": "#1A237E"
+  },
+  {
+    "id": 66,
+    "colorSetId": 4,
+    "name": "A100",
+    "color": "#8C9EFF"
+  },
+  {
+    "id": 67,
+    "colorSetId": 4,
+    "name": "A200",
+    "color": "#536DFE"
+  },
+  {
+    "id": 68,
+    "colorSetId": 4,
+    "name": "A400",
+    "color": "#3D5AFE"
+  },
+  {
+    "id": 69,
+    "colorSetId": 4,
+    "name": "A700",
+    "color": "#304FFE"
+  },
+  {
+    "id": 70,
+    "colorSetId": 5,
+    "name": "50",
+    "color": "#E3F2FD"
+  },
+  {
+    "id": 71,
+    "colorSetId": 5,
+    "name": "100",
+    "color": "#BBDEFB"
+  },
+  {
+    "id": 72,
+    "colorSetId": 5,
+    "name": "200",
+    "color": "#90CAF9"
+  },
+  {
+    "id": 73,
+    "colorSetId": 5,
+    "name": "300",
+    "color": "#64B5F6"
+  },
+  {
+    "id": 74,
+    "colorSetId": 5,
+    "name": "400",
+    "color": "#42A5F5"
+  },
+  {
+    "id": 75,
+    "colorSetId": 5,
+    "name": "500",
+    "color": "#2196F3"
+  },
+  {
+    "id": 76,
+    "colorSetId": 5,
+    "name": "600",
+    "color": "#1E88E5"
+  },
+  {
+    "id": 77,
+    "colorSetId": 5,
+    "name": "700",
+    "color": "#1976D2"
+  },
+  {
+    "id": 78,
+    "colorSetId": 5,
+    "name": "800",
+    "color": "#1565C0"
+  },
+  {
+    "id": 79,
+    "colorSetId": 5,
+    "name": "900",
+    "color": "#0D47A1"
+  },
+  {
+    "id": 80,
+    "colorSetId": 5,
+    "name": "A100",
+    "color": "#82B1FF"
+  },
+  {
+    "id": 81,
+    "colorSetId": 5,
+    "name": "A200",
+    "color": "#448AFF"
+  },
+  {
+    "id": 82,
+    "colorSetId": 5,
+    "name": "A400",
+    "color": "#2979FF"
+  },
+  {
+    "id": 83,
+    "colorSetId": 5,
+    "name": "A700",
+    "color": "#2962FF"
+  },
+  {
+    "id": 84,
+    "colorSetId": 6,
+    "name": "50",
+    "color": "#E1F5FE"
+  },
+  {
+    "id": 85,
+    "colorSetId": 6,
+    "name": "100",
+    "color": "#B3E5FC"
+  },
+  {
+    "id": 86,
+    "colorSetId": 6,
+    "name": "200",
+    "color": "#81D4FA"
+  },
+  {
+    "id": 87,
+    "colorSetId": 6,
+    "name": "300",
+    "color": "#4FC3F7"
+  },
+  {
+    "id": 88,
+    "colorSetId": 6,
+    "name": "400",
+    "color": "#29B6F6"
+  },
+  {
+    "id": 89,
+    "colorSetId": 6,
+    "name": "500",
+    "color": "#03A9F4"
+  },
+  {
+    "id": 90,
+    "colorSetId": 6,
+    "name": "600",
+    "color": "#039BE5"
+  },
+  {
+    "id": 91,
+    "colorSetId": 6,
+    "name": "700",
+    "color": "#0288D1"
+  },
+  {
+    "id": 92,
+    "colorSetId": 6,
+    "name": "800",
+    "color": "#0277BD"
+  },
+  {
+    "id": 93,
+    "colorSetId": 6,
+    "name": "900",
+    "color": "#01579B"
+  },
+  {
+    "id": 94,
+    "colorSetId": 6,
+    "name": "A100",
+    "color": "#80D8FF"
+  },
+  {
+    "id": 95,
+    "colorSetId": 6,
+    "name": "A200",
+    "color": "#40C4FF"
+  },
+  {
+    "id": 96,
+    "colorSetId": 6,
+    "name": "A400",
+    "color": "#00B0FF"
+  },
+  {
+    "id": 97,
+    "colorSetId": 6,
+    "name": "A700",
+    "color": "#0091EA"
+  },
+  {
+    "id": 98,
+    "colorSetId": 7,
+    "name": "50",
+    "color": "#E0F7FA"
+  },
+  {
+    "id": 99,
+    "colorSetId": 7,
+    "name": "100",
+    "color": "#B2EBF2"
+  },
+  {
+    "id": 100,
+    "colorSetId": 7,
+    "name": "200",
+    "color": "#80DEEA"
+  },
+  {
+    "id": 101,
+    "colorSetId": 7,
+    "name": "300",
+    "color": "#4DD0E1"
+  },
+  {
+    "id": 102,
+    "colorSetId": 7,
+    "name": "400",
+    "color": "#26C6DA"
+  },
+  {
+    "id": 103,
+    "colorSetId": 7,
+    "name": "500",
+    "color": "#00BCD4"
+  },
+  {
+    "id": 104,
+    "colorSetId": 7,
+    "name": "600",
+    "color": "#00ACC1"
+  },
+  {
+    "id": 105,
+    "colorSetId": 7,
+    "name": "700",
+    "color": "#0097A7"
+  },
+  {
+    "id": 106,
+    "colorSetId": 7,
+    "name": "800",
+    "color": "#00838F"
+  },
+  {
+    "id": 107,
+    "colorSetId": 7,
+    "name": "900",
+    "color": "#006064"
+  },
+  {
+    "id": 108,
+    "colorSetId": 7,
+    "name": "A100",
+    "color": "#84FFFF"
+  },
+  {
+    "id": 109,
+    "colorSetId": 7,
+    "name": "A200",
+    "color": "#18FFFF"
+  },
+  {
+    "id": 110,
+    "colorSetId": 7,
+    "name": "A400",
+    "color": "#00E5FF"
+  },
+  {
+    "id": 111,
+    "colorSetId": 7,
+    "name": "A700",
+    "color": "#00B8D4"
+  },
+  {
+    "id": 112,
+    "colorSetId": 8,
+    "name": "50",
+    "color": "#E0F2F1"
+  },
+  {
+    "id": 113,
+    "colorSetId": 8,
+    "name": "100",
+    "color": "#B2DFDB"
+  },
+  {
+    "id": 114,
+    "colorSetId": 8,
+    "name": "200",
+    "color": "#80CBC4"
+  },
+  {
+    "id": 115,
+    "colorSetId": 8,
+    "name": "300",
+    "color": "#4DB6AC"
+  },
+  {
+    "id": 116,
+    "colorSetId": 8,
+    "name": "400",
+    "color": "#26A69A"
+  },
+  {
+    "id": 117,
+    "colorSetId": 8,
+    "name": "500",
+    "color": "#009688"
+  },
+  {
+    "id": 118,
+    "colorSetId": 8,
+    "name": "600",
+    "color": "#00897B"
+  },
+  {
+    "id": 119,
+    "colorSetId": 8,
+    "name": "700",
+    "color": "#00796B"
+  },
+  {
+    "id": 120,
+    "colorSetId": 8,
+    "name": "800",
+    "color": "#00695C"
+  },
+  {
+    "id": 121,
+    "colorSetId": 8,
+    "name": "900",
+    "color": "#004D40"
+  },
+  {
+    "id": 122,
+    "colorSetId": 8,
+    "name": "A100",
+    "color": "#A7FFEB"
+  },
+  {
+    "id": 123,
+    "colorSetId": 8,
+    "name": "A200",
+    "color": "#64FFDA"
+  },
+  {
+    "id": 124,
+    "colorSetId": 8,
+    "name": "A400",
+    "color": "#1DE9B6"
+  },
+  {
+    "id": 125,
+    "colorSetId": 8,
+    "name": "A700",
+    "color": "#00BFA5"
+  },
+  {
+    "id": 126,
+    "colorSetId": 9,
+    "name": "50",
+    "color": "#E8F5E9"
+  },
+  {
+    "id": 127,
+    "colorSetId": 9,
+    "name": "100",
+    "color": "#C8E6C9"
+  },
+  {
+    "id": 128,
+    "colorSetId": 9,
+    "name": "200",
+    "color": "#A5D6A7"
+  },
+  {
+    "id": 129,
+    "colorSetId": 9,
+    "name": "300",
+    "color": "#81C784"
+  },
+  {
+    "id": 130,
+    "colorSetId": 9,
+    "name": "400",
+    "color": "#66BB6A"
+  },
+  {
+    "id": 131,
+    "colorSetId": 9,
+    "name": "500",
+    "color": "#4CAF50"
+  },
+  {
+    "id": 132,
+    "colorSetId": 9,
+    "name": "600",
+    "color": "#43A047"
+  },
+  {
+    "id": 133,
+    "colorSetId": 9,
+    "name": "700",
+    "color": "#388E3C"
+  },
+  {
+    "id": 134,
+    "colorSetId": 9,
+    "name": "800",
+    "color": "#2E7D32"
+  },
+  {
+    "id": 135,
+    "colorSetId": 9,
+    "name": "900",
+    "color": "#1B5E20"
+  },
+  {
+    "id": 136,
+    "colorSetId": 9,
+    "name": "A100",
+    "color": "#B9F6CA"
+  },
+  {
+    "id": 137,
+    "colorSetId": 9,
+    "name": "A200",
+    "color": "#69F0AE"
+  },
+  {
+    "id": 138,
+    "colorSetId": 9,
+    "name": "A400",
+    "color": "#00E676"
+  },
+  {
+    "id": 139,
+    "colorSetId": 9,
+    "name": "A700",
+    "color": "#00C853"
+  },
+  {
+    "id": 140,
+    "colorSetId": 10,
+    "name": "50",
+    "color": "#F1F8E9"
+  },
+  {
+    "id": 141,
+    "colorSetId": 10,
+    "name": "100",
+    "color": "#DCEDC8"
+  },
+  {
+    "id": 142,
+    "colorSetId": 10,
+    "name": "200",
+    "color": "#C5E1A5"
+  },
+  {
+    "id": 143,
+    "colorSetId": 10,
+    "name": "300",
+    "color": "#AED581"
+  },
+  {
+    "id": 144,
+    "colorSetId": 10,
+    "name": "400",
+    "color": "#9CCC65"
+  },
+  {
+    "id": 145,
+    "colorSetId": 10,
+    "name": "500",
+    "color": "#8BC34A"
+  },
+  {
+    "id": 146,
+    "colorSetId": 10,
+    "name": "600",
+    "color": "#7CB342"
+  },
+  {
+    "id": 147,
+    "colorSetId": 10,
+    "name": "700",
+    "color": "#689F38"
+  },
+  {
+    "id": 148,
+    "colorSetId": 10,
+    "name": "800",
+    "color": "#558B2F"
+  },
+  {
+    "id": 149,
+    "colorSetId": 10,
+    "name": "900",
+    "color": "#33691E"
+  },
+  {
+    "id": 150,
+    "colorSetId": 10,
+    "name": "A100",
+    "color": "#CCFF90"
+  },
+  {
+    "id": 151,
+    "colorSetId": 10,
+    "name": "A200",
+    "color": "#B2FF59"
+  },
+  {
+    "id": 152,
+    "colorSetId": 10,
+    "name": "A400",
+    "color": "#76FF03"
+  },
+  {
+    "id": 153,
+    "colorSetId": 10,
+    "name": "A700",
+    "color": "#64DD17"
+  },
+  {
+    "id": 154,
+    "colorSetId": 11,
+    "name": "50",
+    "color": "#F9FBE7"
+  },
+  {
+    "id": 155,
+    "colorSetId": 11,
+    "name": "100",
+    "color": "#F0F4C3"
+  },
+  {
+    "id": 156,
+    "colorSetId": 11,
+    "name": "200",
+    "color": "#E6EE9C"
+  },
+  {
+    "id": 157,
+    "colorSetId": 11,
+    "name": "300",
+    "color": "#DCE775"
+  },
+  {
+    "id": 158,
+    "colorSetId": 11,
+    "name": "400",
+    "color": "#D4E157"
+  },
+  {
+    "id": 159,
+    "colorSetId": 11,
+    "name": "500",
+    "color": "#CDDC39"
+  },
+  {
+    "id": 160,
+    "colorSetId": 11,
+    "name": "600",
+    "color": "#C0CA33"
+  },
+  {
+    "id": 161,
+    "colorSetId": 11,
+    "name": "700",
+    "color": "#AFB42B"
+  },
+  {
+    "id": 162,
+    "colorSetId": 11,
+    "name": "800",
+    "color": "#9E9D24"
+  },
+  {
+    "id": 163,
+    "colorSetId": 11,
+    "name": "900",
+    "color": "#827717"
+  },
+  {
+    "id": 164,
+    "colorSetId": 11,
+    "name": "A100",
+    "color": "#F4FF81"
+  },
+  {
+    "id": 165,
+    "colorSetId": 11,
+    "name": "A200",
+    "color": "#EEFF41"
+  },
+  {
+    "id": 166,
+    "colorSetId": 11,
+    "name": "A400",
+    "color": "#C6FF00"
+  },
+  {
+    "id": 167,
+    "colorSetId": 11,
+    "name": "A700",
+    "color": "#AEEA00"
+  },
+  {
+    "id": 168,
+    "colorSetId": 12,
+    "name": "50",
+    "color": "#FFFDE7"
+  },
+  {
+    "id": 169,
+    "colorSetId": 12,
+    "name": "100",
+    "color": "#FFF9C4"
+  },
+  {
+    "id": 170,
+    "colorSetId": 12,
+    "name": "200",
+    "color": "#FFF59D"
+  },
+  {
+    "id": 171,
+    "colorSetId": 12,
+    "name": "300",
+    "color": "#FFF176"
+  },
+  {
+    "id": 172,
+    "colorSetId": 12,
+    "name": "400",
+    "color": "#FFEE58"
+  },
+  {
+    "id": 173,
+    "colorSetId": 12,
+    "name": "500",
+    "color": "#FFEB3B"
+  },
+  {
+    "id": 174,
+    "colorSetId": 12,
+    "name": "600",
+    "color": "#FDD835"
+  },
+  {
+    "id": 175,
+    "colorSetId": 12,
+    "name": "700",
+    "color": "#FBC02D"
+  },
+  {
+    "id": 176,
+    "colorSetId": 12,
+    "name": "800",
+    "color": "#F9A825"
+  },
+  {
+    "id": 177,
+    "colorSetId": 12,
+    "name": "900",
+    "color": "#F57F17"
+  },
+  {
+    "id": 178,
+    "colorSetId": 12,
+    "name": "A100",
+    "color": "#FFFF8D"
+  },
+  {
+    "id": 179,
+    "colorSetId": 12,
+    "name": "A200",
+    "color": "#FFFF00"
+  },
+  {
+    "id": 180,
+    "colorSetId": 12,
+    "name": "A400",
+    "color": "#FFEA00"
+  },
+  {
+    "id": 181,
+    "colorSetId": 12,
+    "name": "A700",
+    "color": "#FFD600"
+  },
+  {
+    "id": 182,
+    "colorSetId": 13,
+    "name": "50",
+    "color": "#FFF8E1"
+  },
+  {
+    "id": 183,
+    "colorSetId": 13,
+    "name": "100",
+    "color": "#FFECB3"
+  },
+  {
+    "id": 184,
+    "colorSetId": 13,
+    "name": "200",
+    "color": "#FFE082"
+  },
+  {
+    "id": 185,
+    "colorSetId": 13,
+    "name": "300",
+    "color": "#FFD54F"
+  },
+  {
+    "id": 186,
+    "colorSetId": 13,
+    "name": "400",
+    "color": "#FFCA28"
+  },
+  {
+    "id": 187,
+    "colorSetId": 13,
+    "name": "500",
+    "color": "#FFC107"
+  },
+  {
+    "id": 188,
+    "colorSetId": 13,
+    "name": "600",
+    "color": "#FFB300"
+  },
+  {
+    "id": 189,
+    "colorSetId": 13,
+    "name": "700",
+    "color": "#FFA000"
+  },
+  {
+    "id": 190,
+    "colorSetId": 13,
+    "name": "800",
+    "color": "#FF8F00"
+  },
+  {
+    "id": 191,
+    "colorSetId": 13,
+    "name": "900",
+    "color": "#FF6F00"
+  },
+  {
+    "id": 192,
+    "colorSetId": 13,
+    "name": "A100",
+    "color": "#FFE57F"
+  },
+  {
+    "id": 193,
+    "colorSetId": 13,
+    "name": "A200",
+    "color": "#FFD740"
+  },
+  {
+    "id": 194,
+    "colorSetId": 13,
+    "name": "A400",
+    "color": "#FFC400"
+  },
+  {
+    "id": 195,
+    "colorSetId": 13,
+    "name": "A700",
+    "color": "#FFAB00"
+  },
+  {
+    "id": 196,
+    "colorSetId": 14,
+    "name": "50",
+    "color": "#FFF3E0"
+  },
+  {
+    "id": 197,
+    "colorSetId": 14,
+    "name": "100",
+    "color": "#FFE0B2"
+  },
+  {
+    "id": 198,
+    "colorSetId": 14,
+    "name": "200",
+    "color": "#FFCC80"
+  },
+  {
+    "id": 199,
+    "colorSetId": 14,
+    "name": "300",
+    "color": "#FFB74D"
+  },
+  {
+    "id": 200,
+    "colorSetId": 14,
+    "name": "400",
+    "color": "#FFA726"
+  },
+  {
+    "id": 201,
+    "colorSetId": 14,
+    "name": "500",
+    "color": "#FF9800"
+  },
+  {
+    "id": 202,
+    "colorSetId": 14,
+    "name": "600",
+    "color": "#FB8C00"
+  },
+  {
+    "id": 203,
+    "colorSetId": 14,
+    "name": "700",
+    "color": "#F57C00"
+  },
+  {
+    "id": 204,
+    "colorSetId": 14,
+    "name": "800",
+    "color": "#EF6C00"
+  },
+  {
+    "id": 205,
+    "colorSetId": 14,
+    "name": "900",
+    "color": "#E65100"
+  },
+  {
+    "id": 206,
+    "colorSetId": 14,
+    "name": "A100",
+    "color": "#FFD180"
+  },
+  {
+    "id": 207,
+    "colorSetId": 14,
+    "name": "A200",
+    "color": "#FFAB40"
+  },
+  {
+    "id": 208,
+    "colorSetId": 14,
+    "name": "A400",
+    "color": "#FF9100"
+  },
+  {
+    "id": 209,
+    "colorSetId": 14,
+    "name": "A700",
+    "color": "#FF6D00"
+  },
+  {
+    "id": 210,
+    "colorSetId": 15,
+    "name": "50",
+    "color": "#FBE9E7"
+  },
+  {
+    "id": 211,
+    "colorSetId": 15,
+    "name": "100",
+    "color": "#FFCCBC"
+  },
+  {
+    "id": 212,
+    "colorSetId": 15,
+    "name": "200",
+    "color": "#FFAB91"
+  },
+  {
+    "id": 213,
+    "colorSetId": 15,
+    "name": "300",
+    "color": "#FF8A65"
+  },
+  {
+    "id": 214,
+    "colorSetId": 15,
+    "name": "400",
+    "color": "#FF7043"
+  },
+  {
+    "id": 215,
+    "colorSetId": 15,
+    "name": "500",
+    "color": "#FF5722"
+  },
+  {
+    "id": 216,
+    "colorSetId": 15,
+    "name": "600",
+    "color": "#F4511E"
+  },
+  {
+    "id": 217,
+    "colorSetId": 15,
+    "name": "700",
+    "color": "#E64A19"
+  },
+  {
+    "id": 218,
+    "colorSetId": 15,
+    "name": "800",
+    "color": "#D84315"
+  },
+  {
+    "id": 219,
+    "colorSetId": 15,
+    "name": "900",
+    "color": "#BF360C"
+  },
+  {
+    "id": 220,
+    "colorSetId": 15,
+    "name": "A100",
+    "color": "#FF9E80"
+  },
+  {
+    "id": 221,
+    "colorSetId": 15,
+    "name": "A200",
+    "color": "#FF6E40"
+  },
+  {
+    "id": 222,
+    "colorSetId": 15,
+    "name": "A400",
+    "color": "#FF3D00"
+  },
+  {
+    "id": 223,
+    "colorSetId": 15,
+    "name": "A700",
+    "color": "#DD2C00"
+  },
+  {
+    "id": 224,
+    "colorSetId": 16,
+    "name": "50",
+    "color": "#EFEBE9"
+  },
+  {
+    "id": 225,
+    "colorSetId": 16,
+    "name": "100",
+    "color": "#D7CCC8"
+  },
+  {
+    "id": 226,
+    "colorSetId": 16,
+    "name": "200",
+    "color": "#BCAAA4"
+  },
+  {
+    "id": 227,
+    "colorSetId": 16,
+    "name": "300",
+    "color": "#A1887F"
+  },
+  {
+    "id": 228,
+    "colorSetId": 16,
+    "name": "400",
+    "color": "#8D6E63"
+  },
+  {
+    "id": 229,
+    "colorSetId": 16,
+    "name": "500",
+    "color": "#795548"
+  },
+  {
+    "id": 230,
+    "colorSetId": 16,
+    "name": "600",
+    "color": "#6D4C41"
+  },
+  {
+    "id": 231,
+    "colorSetId": 16,
+    "name": "700",
+    "color": "#5D4037"
+  },
+  {
+    "id": 232,
+    "colorSetId": 16,
+    "name": "800",
+    "color": "#4E342E"
+  },
+  {
+    "id": 233,
+    "colorSetId": 16,
+    "name": "900",
+    "color": "#3E2723"
+  },
+  {
+    "id": 234,
+    "colorSetId": 17,
+    "name": "50",
+    "color": "#FAFAFA"
+  },
+  {
+    "id": 235,
+    "colorSetId": 17,
+    "name": "100",
+    "color": "#F5F5F5"
+  },
+  {
+    "id": 236,
+    "colorSetId": 17,
+    "name": "200",
+    "color": "#EEEEEE"
+  },
+  {
+    "id": 237,
+    "colorSetId": 17,
+    "name": "300",
+    "color": "#E0E0E0"
+  },
+  {
+    "id": 238,
+    "colorSetId": 17,
+    "name": "400",
+    "color": "#BDBDBD"
+  },
+  {
+    "id": 239,
+    "colorSetId": 17,
+    "name": "500",
+    "color": "#9E9E9E"
+  },
+  {
+    "id": 240,
+    "colorSetId": 17,
+    "name": "600",
+    "color": "#757575"
+  },
+  {
+    "id": 241,
+    "colorSetId": 17,
+    "name": "700",
+    "color": "#616161"
+  },
+  {
+    "id": 242,
+    "colorSetId": 17,
+    "name": "800",
+    "color": "#424242"
+  },
+  {
+    "id": 243,
+    "colorSetId": 17,
+    "name": "900",
+    "color": "#212121"
+  },
+  {
+    "id": 244,
+    "colorSetId": 18,
+    "name": "50",
+    "color": "#ECEFF1"
+  },
+  {
+    "id": 245,
+    "colorSetId": 18,
+    "name": "100",
+    "color": "#CFD8DC"
+  },
+  {
+    "id": 246,
+    "colorSetId": 18,
+    "name": "200",
+    "color": "#B0BEC5"
+  },
+  {
+    "id": 247,
+    "colorSetId": 18,
+    "name": "300",
+    "color": "#90A4AE"
+  },
+  {
+    "id": 248,
+    "colorSetId": 18,
+    "name": "400",
+    "color": "#78909C"
+  },
+  {
+    "id": 249,
+    "colorSetId": 18,
+    "name": "500",
+    "color": "#607D8B"
+  },
+  {
+    "id": 250,
+    "colorSetId": 18,
+    "name": "600",
+    "color": "#546E7A"
+  },
+  {
+    "id": 251,
+    "colorSetId": 18,
+    "name": "700",
+    "color": "#455A64"
+  },
+  {
+    "id": 252,
+    "colorSetId": 18,
+    "name": "800",
+    "color": "#37474F"
+  },
+  {
+    "id": 253,
+    "colorSetId": 18,
+    "name": "900",
+    "color": "#263238"
+  }
+]
